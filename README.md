@@ -1,7 +1,5 @@
-# Data Scientist
+# Student 
 
 ### Education
-
-### Work Experience 
 
 ### Projects
