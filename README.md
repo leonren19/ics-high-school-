@@ -6,6 +6,4 @@ Hi, my name is Leon Ren! I’m a freshman at UCLA studying Statistics & Data Sci
 - B.S. Statistics & Data Science and B.S. Cognitive Science | University of California, Los Angeles (Exp. Sep. 2027)
 - Miramonte High School, Orinda CA (May 2023)
 
-### Projects
-
 ### Resume/CV
